@@ -3,10 +3,6 @@
 
 - 🌱 I’m currently learning **Quarkus, C++ and much more 😉**
 
-- 📫 How to reach me **zelderon038@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/georgi-shishkov/](https://www.linkedin.com/in/georgi-shishkov/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/georgi shishkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgi shishkov" height="30" width="40" /></a>
